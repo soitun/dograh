@@ -1,5 +1,32 @@
 # Changelog
 
+## [1.21.0](https://github.com/dograh-hq/dograh/compare/dograh-v1.20.0...dograh-v1.21.0) (2026-04-07)
+
+
+### Features
+
+* add Assembly AI STT ([501d06c](https://github.com/dograh-hq/dograh/commit/501d06c00de7bd9c4257d8d46ae9a0df7e396c86))
+* add default initial context variables ([96c9037](https://github.com/dograh-hq/dograh/commit/96c90376c32dd8be90fd375adb5422f9a7ea5c3d))
+* add default telephony variables ([e7adbc7](https://github.com/dograh-hq/dograh/commit/e7adbc7bad9c409265efe5b60692fdfcf2fa9875))
+* add gladia stt support ([c4c4b59](https://github.com/dograh-hq/dograh/commit/c4c4b591db4606e3dca4ee11fc863c73ab7ffde6))
+* add pre call fetch configuration ([#222](https://github.com/dograh-hq/dograh/issues/222)) ([ec2f322](https://github.com/dograh-hq/dograh/commit/ec2f322486fdc8729d97c7d70d0d53fd21704793))
+* add Rime TTS ([e255b33](https://github.com/dograh-hq/dograh/commit/e255b33813493f323ccc50994ffeac75b19db601))
+* add worker sync events ([03df559](https://github.com/dograh-hq/dograh/commit/03df5595c3a8405f9fa7356f335caeecb7f737d4))
+* allow multiple recording file upload ([6792ecd](https://github.com/dograh-hq/dograh/commit/6792ecd301f609fa592c66e7b92ac9e9180b2207))
+* enable context summarization ([56763a4](https://github.com/dograh-hq/dograh/commit/56763a4527c513ae26548bce48f7d4e50a5aaff4))
+* set calculator as custom tool on demand ([f368fe5](https://github.com/dograh-hq/dograh/commit/f368fe51346ed325998aebdcf8e20560cfc76d99))
+
+
+### Bug Fixes
+
+* set context before update settings for live ([6a473a9](https://github.com/dograh-hq/dograh/commit/6a473a9db5c887c7e84dc64e9497d10e2d553d7c))
+* Speaches STT service wiring ([95d6dd4](https://github.com/dograh-hq/dograh/commit/95d6dd44ff4e79994022ead1eb6f79a91f053566))
+
+
+### Documentation
+
+* improve api trigger documentation ([89fce77](https://github.com/dograh-hq/dograh/commit/89fce77438683faee1c99c00918ab687626bd84b))
+
 ## [1.20.0](https://github.com/dograh-hq/dograh/compare/dograh-v1.19.2...dograh-v1.20.0) (2026-03-31)
 
 
